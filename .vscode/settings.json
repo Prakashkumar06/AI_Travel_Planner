@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/v1@configmap+apps/v1@daemonset+rbac.authorization.k8s.io/v1@clusterrolebinding+rbac.authorization.k8s.io/v1@rolebinding+rbac.authorization.k8s.io/v1@rolebinding+rbac.authorization.k8s.io/v1@clusterrole+rbac.authorization.k8s.io/v1@role+rbac.authorization.k8s.io/v1@role+v1@serviceaccount": "file:///c%3A/Users/praka/OneDrive/Desktop/travel_planner/filebeat.yaml"
+    }
+}
